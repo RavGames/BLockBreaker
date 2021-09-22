@@ -1,2 +1,2 @@
 # BLockBreaker
-A Game where the blocks are being destroyed by the ball.
+A Game where you have to destroy the blocks by the ball.
